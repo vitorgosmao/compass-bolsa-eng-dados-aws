@@ -33,9 +33,6 @@ from LIVRO inner join AUTOR
                             GROUP BY EDITORA.Nome
                             ORDER BY Publicacoes DESC LIMIT 5) TopEditoras
         on LIVRO.Editora = TopEditoras.CodEditora 
-        GROUP BY TopEditoras.Nome
-                            ORDER BY Publicacoes DESC LIMIT 5;
- 
 
 spool off;
 
