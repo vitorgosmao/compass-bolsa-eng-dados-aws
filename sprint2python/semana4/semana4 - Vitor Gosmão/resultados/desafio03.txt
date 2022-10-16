@@ -1,0 +1,2 @@
+Actor                | Average per Movie
+Anthony Daniels      | 451.8

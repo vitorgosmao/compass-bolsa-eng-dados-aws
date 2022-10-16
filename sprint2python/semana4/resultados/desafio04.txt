@@ -1,0 +1,2 @@
+#1 Movie             | Frequency
+The Avengers         | 6    
